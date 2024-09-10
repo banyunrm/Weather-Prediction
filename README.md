@@ -1,5 +1,7 @@
 # Weather Prediction
 
+hugging face : https://huggingface.co/spaces/Banyuuu/weather_prediction
+
 _Project ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Data Science Fulltime Program khususnya pada Phase 1._
 
 ---
