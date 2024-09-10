@@ -59,8 +59,3 @@ Project dikerjakan dalam format ***notebook*** dan ***Model Deployment*** dengan
        > Pada bagian terakhir ini, **berisi** kesimpulan yang mencerminkan hasil yang didapat dengan *objective* yang sudah ditulis di bagian pengenalan.
 
 
-## Notes
-
-* **Deadline : P1W4D4 pukul 18:00 WIB.**
-
-* **Keterlambatan pengumpulan tugas mengakibatkan skor Milestone 2 menjadi 0.**
